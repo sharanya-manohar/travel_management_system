@@ -50,15 +50,15 @@ The project uses **XAMPP** for server and database hosting. All database connect
 
 ## Screenshots  
 
-![image](https://github.com/user-attachments/assets/85c37d90-3ac7-41d3-8790-f83ae920b92a) Homepage
-![image](https://github.com/user-attachments/assets/8240e995-b531-4411-9307-dc68fd7e846b) Sign Up Page
-![image](https://github.com/user-attachments/assets/43a51961-7204-4c5a-b210-fc48ef3c6130) Login Page
-![image](https://github.com/user-attachments/assets/948ad652-ea5b-4c64-a139-4b2072b58a0d) User Homepage
-![image](https://github.com/user-attachments/assets/4506804c-bef9-44a8-8e60-e04ec94b7586) Destinations Page
-![image](https://github.com/user-attachments/assets/44b3171b-f827-4b61-8754-6d630495c7a2) Transportations Page
-![image](https://github.com/user-attachments/assets/5fedda39-8244-4a0c-a60d-eeef62a304d4) BookTrip Page
-![image](https://github.com/user-attachments/assets/57fb62b2-94ff-43af-bc12-2898222e3d1c) Payments Page
-![image](https://github.com/user-attachments/assets/f3c41a5b-8181-4b4b-8ff4-4f6dd4144eb8) Cancellation Page
+Homepage ![image](https://github.com/user-attachments/assets/85c37d90-3ac7-41d3-8790-f83ae920b92a) 
+Sign Up Page ![image](https://github.com/user-attachments/assets/8240e995-b531-4411-9307-dc68fd7e846b) 
+Login Page ![image](https://github.com/user-attachments/assets/43a51961-7204-4c5a-b210-fc48ef3c6130) 
+User Homepage ![image](https://github.com/user-attachments/assets/948ad652-ea5b-4c64-a139-4b2072b58a0d) 
+Destinations Page ![image](https://github.com/user-attachments/assets/4506804c-bef9-44a8-8e60-e04ec94b7586)
+Transportations Page ![image](https://github.com/user-attachments/assets/44b3171b-f827-4b61-8754-6d630495c7a2) 
+BookTrip Page ![image](https://github.com/user-attachments/assets/5fedda39-8244-4a0c-a60d-eeef62a304d4) 
+Payments Page ![image](https://github.com/user-attachments/assets/57fb62b2-94ff-43af-bc12-2898222e3d1c) 
+Cancellation Page ![image](https://github.com/user-attachments/assets/f3c41a5b-8181-4b4b-8ff4-4f6dd4144eb8) 
 
 ---
 
