@@ -69,4 +69,3 @@ Feel free to contribute to this project by:
 - Fixing bugs.  
 - Enhancing the design or functionality.  
 
----
